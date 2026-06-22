@@ -1,11 +1,11 @@
 👋 Hi, I’m Andrew Arocha  
 
-I’m a junior web developer focused on strengthening my JavaScript fundamentals, building interactive front-end applications, and learning how real-world UI problems are solved.
+I’m a junior web developer focused on strengthening my fundamentals and API structure, building interactive front-end applications, and learning how real-world UI problems are solved.
 
 Right now, I’m working on small projects that emphasize:
-- JavaScript logic and DOM manipulation  
+- React, Vite, and Framer-Motion transitions  
 - Clean, readable code  
-- Practical problem-solving over tutorials  
+- Practical problem-solving 
 
 I’m open to collaborating on beginner-friendly projects where I can contribute, learn, and improve alongside others.
 
