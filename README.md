@@ -19,7 +19,7 @@ Before diving into engineering, I spent over a decade in operations management, 
 
 ### 📫 Let's Connect
 - **Email:** [andrewarocha.dz@gmail.com](mailto:andrewarocha.dz@gmail.com)
-- **LinkedIn:** [Andrés Hernández](https://www.linkedin.com/in/andres-hernandez-dev) *(Make sure to update this link if you changed your LinkedIn URL earlier!)*
+- **LinkedIn:** [Andrés Hernández](https://www.linkedin.com/in/andres-hernandez-dev)
 <!---
 AndrewArocha/AndrewArocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
