@@ -13,4 +13,4 @@ I build interactive web applications and tools for business workflows. Before mo
 | [Patisserie Café](https://github.com/AndrewArocha/patisserie-cafe) | A café storefront with a menu, customer accounts, order management, and hosted Stripe Checkout. Built with React, TypeScript, Express, and MongoDB. |
 | [Gallery Around the World](https://github.com/AndrewArocha/web_project_around_full) | A full-stack photo gallery with sign-in, editable profiles, and image cards you can add, like, or delete. Built with React, TypeScript, Express, and MongoDB. |
 
-[LinkedIn](https://www.linkedin.com/in/andres-hernandez-dev) · [Email](mailto:andrewarocha.dz@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/andres-hernandez-333b59282/) · [Email](mailto:andrewarocha.dz@gmail.com)
